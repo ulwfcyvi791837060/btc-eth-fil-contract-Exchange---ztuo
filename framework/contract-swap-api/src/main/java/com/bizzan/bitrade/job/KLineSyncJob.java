@@ -5,7 +5,7 @@ import com.bizzan.bitrade.engine.ContractCoinMatchFactory;
 import com.bizzan.bitrade.service.ContractMarketService;
 import com.bizzan.bitrade.util.DateUtil;
 import com.bizzan.bitrade.util.WebSocketConnectionManage;
-import com.sun.media.jfxmedia.logging.Logger;
+
 import org.java_websocket.client.WebSocketClient;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
